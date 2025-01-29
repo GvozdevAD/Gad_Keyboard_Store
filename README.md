@@ -15,7 +15,7 @@
 - **FastAPI** 
 - **PostgreSQL**
 - **Redis**
-- **JWT
+- **JWT**
 - **Celery**
 - **Nginx**
 #### **Фронтенд:**
